@@ -8,7 +8,7 @@ Wish me luck..
 What to talk?..
 
 <h1 align='center'>
- <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77C2C&center=true&width=435&lines=Hello+World!!+This+is+P.+Kawshikk+Shriidatta+%F0%9F%9A%80+)](https://git.io/typing-svg)">
+ <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77C2C&width=435&lines=Hello+World!!+This+is+P.+Kawshikk+Shriidatta+%F0%9F%9A%80+)](https://git.io/typing-svg)">
 </h1>
 <p align="center">
   
