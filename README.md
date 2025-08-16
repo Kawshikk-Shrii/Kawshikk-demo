@@ -1,11 +1,14 @@
-<h1 align='center'>
- <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77C2C&width=435&lines=Hello+World!!+This+is+P.+Kawshikk+Shriidatta+%F0%9F%9A%80+)](https://git.io/typing-svg)">
-</h1>
-<p align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Kawshikk-Shrii&icon=5&color=5)](https://visitcount.itsvg.in)
+<h1 align="center">Hi 👋, I'm P. Kawshikk Shriidatta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawshikk-shrii&label=Profile%20views&color=0e75b6&style=flat" alt="kawshikk-shrii" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawshikk-shrii" alt="kawshikk-shrii" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kawshikk_sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawshikk_sd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/p-kawshikk-shriidatta-a03179320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p-kawshikk-shriidatta-a03179320" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawshikk-Shrii&size_weight=0.5&count_weight=0.5)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawshikk-shrii&show_icons=true&locale=en&layout=compact" alt="kawshikk-shrii" /></p>
 
-[![Kawshikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawshikk-Shrii)](https://github.com/Kawshikk-Shrii/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawshikk-shrii&show_icons=true&locale=en" alt="kawshikk-shrii" /></p>
